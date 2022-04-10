@@ -1,0 +1,1 @@
+try Command().run()
